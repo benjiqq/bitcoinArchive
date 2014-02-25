@@ -1,6 +1,6 @@
 # bitcoin 0.1
 
-the main files from the original source code in 7000 LOC. much of the structure remains today.
+the first release was the 0.1 version. the private november 2008 version is in the respective folder. in the root folder are the main files of the 0.1 version. the main files from the original source code in 7000 LOC. much of the structure remains today.
 
 *  2660 ./main.cpp
 *  1127 ./script.cpp
@@ -9,5 +9,4 @@ the main files from the original source code in 7000 LOC. much of the structure 
 *   554 ./sha.cpp
 *   373 ./util.cpp
 *   265 ./irc.cpp
-*   264 ./market.cpp
-*  6867 total
+*  6603 total
