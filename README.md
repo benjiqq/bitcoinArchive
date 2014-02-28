@@ -1,15 +1,14 @@
 # bitcoin original sources
 
-archive of original bitcoin source
+archive of original bitcoin material
 
-in november 2008 some sources were distributed privately
+On Sat, 01 Nov 2008 16:16:33 -0700 Satoshi Nakamoto posted the whitepaper bitcoin.pdf. (md5sum d56d71ecadf2137be09d8b1d35c6c042).
+
+On Fri, 09 Jan 2009 17:05:49 -0800 the first version was released. (md5sum dca1095f053a0c2dc90b19c92bd1ec00 ).
+
+In november 2008 some sources were distributed privately
 
 "This is the Bitcoin sources from November 16, 2008 - a few months before the current blockchain began.". "I was on the Metzdowd cryptography list at that time.", https://bitcointalk.org/index.php?topic=382374.0 
-
-the first release was the 0.1 version in 2009: 
-
-bitcoin-0.1.0.tgz . md5sum dca1095f053a0c2dc90b19c92bd1ec00 
-
 
 the private november 2008 version is in the nov08 folder.
 
