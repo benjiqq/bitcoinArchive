@@ -1,4 +1,3 @@
-
 https://www.mail-archive.com/cryptography%40metzdowd.com/msg09959.html
 
 Bitcoin P2P e-cash paper
@@ -45,27 +44,3 @@ Full paper at:
 http://www.bitcoin.org/bitcoin.pdf
 
 Satoshi Nakamoto
-
----------------------------------------------------------------------
-The Cryptography Mailing List
-Unsubscribe by sending "unsubscribe cryptography" to [EMAIL PROTECTED]
-
-    Previous message
-    View by thread
-    View by date
-    Next message
-
-    Bitcoin P2P e-cash paperSatoshi Nakamoto
-        Re: Bitcoin P2P e-cash paper James A. Donald
-            Secrets and cell phones. James A. Donald
-                Why the poor uptake of encrypted email?... StealthMonger
-                    Re: Why the poor uptake of encrypte... JOHN GALT
-                        Re: Why the poor uptake of enc... David G. Koontz
-                            Re: Why the poor uptake of... Dirk-Willem van Gulik
-                        Re: Why the poor uptake of enc... Alec Muffett
-                            Re: Why the poor uptake of... ji
-                            Re: Why the poor uptake of... StealthMonger
-                                Re: Why the poor uptak... Nicolas Williams
-
-
-
