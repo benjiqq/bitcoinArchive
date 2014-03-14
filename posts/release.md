@@ -1,5 +1,3 @@
-
-Skip to site navigation (Press enter)
 Bitcoin v0.1 released
 
 Satoshi Nakamoto Fri, 09 Jan 2009 17:05:49 -0800
