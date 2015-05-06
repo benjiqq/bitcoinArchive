@@ -4,7 +4,7 @@ archive of original bitcoin material
 
 On Sat, 01 Nov 2008 16:16:33 -0700 Satoshi Nakamoto posted the whitepaper bitcoin.pdf. (md5sum d56d71ecadf2137be09d8b1d35c6c042).
 
-On Fri, 09 Jan 2009 17:05:49 -0800 the first version was released. (md5sum dca1095f053a0c2dc90b19c92bd1ec00 ).
+On Thu Jan 8 14:27:40 EST 2009 the first version was released. (md5sum dca1095f053a0c2dc90b19c92bd1ec00 ). http://www.metzdowd.com/pipermail/cryptography/2009-January/014994.html.
 
 In november 2008 some sources were distributed privately
 
