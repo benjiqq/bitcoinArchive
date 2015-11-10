@@ -1,0 +1,1173 @@
+Archive member included       because of file (symbol)
+
+/mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(atoi.o)
+                              rpowutil.o (atoi)
+/mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(byteswap.o)
+                              persist.o (swaps_r)
+/mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(calloc.o)
+                              keygen.o (calloc)
+/mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(free.o)
+                              rpow.o (free)
+/mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(localtim.o)
+                              dbverify.o (localtime)
+/mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(malloc.o)
+                              rpow.o (malloc)
+/mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(memcmp.o)
+                              cryptchan.o (memcmp)
+/mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(memcpy.o)
+                              rpow.o (memcpy)
+/mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(memset.o)
+                              rpow.o (memset)
+/mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(mktime.o)
+                              rpowutil.o (mktime)
+/mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(objmgr.o)
+                              /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(malloc.o) (_objalloc)
+/mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(reallo.o)
+                              rpow.o (realloc)
+/mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(sprntf.o)
+                              persist.o (sprintf)
+/mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(strcat.o)
+                              persist.o (strcat)
+/mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(strcmp.o)
+                              rpowutil.o (strcmp)
+/mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(strlen.o)
+                              rpowutil.o (strlen)
+/mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(strncpy.o)
+                              rpowutil.o (strncpy)
+/mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(strtol.o)
+                              /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(atoi.o) (strtol)
+/mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(time.o)
+                              dbverify.o (time)
+/mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(tolowr.o)
+                              /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(strtol.o) (tolower)
+/mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(cjldata.o)
+                              /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(malloc.o) (errno)
+/mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(cleanprv.o)
+                              /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(free.o) (_objmgrSem)
+/mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(ctype.o)
+                              /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(strtol.o) (_ctype)
+/mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(doprnt.o)
+                              /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(sprntf.o) (_doprnt)
+/mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(ftime.o)
+                              /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(localtim.o) (ftime)
+/mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(gmtime.o)
+                              /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(mktime.o) (_mday)
+/mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(isdst.o)
+                              /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(mktime.o) (_isdst)
+/mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(sm_io.o)
+                              /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(doprnt.o) (prtscrn)
+/mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(strcpy.o)
+                              /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(doprnt.o) (strcpy)
+/mnt/hd1/dl/scctk/lib/scc/linux/gcc/cpqlib.a(cpdel.o)
+                              /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(cleanprv.o) (CPDelete)
+/mnt/hd1/dl/scctk/lib/scc/linux/gcc/cpqlib.a(cprmcini.o)
+                              /mnt/hd1/dl/scctk/lib/scc/linux/gcc/cpqlib.a(cpdel.o) (rmqid)
+/mnt/hd1/dl/scctk/lib/scc/linux/gcc/cpqlib.a(cprmsynm.o)
+                              /mnt/hd1/dl/scctk/lib/scc/linux/gcc/cpqlib.a(cpdel.o) (CPRMSynM)
+/mnt/hd1/dl/scctk/lib/scc/linux/gcc/cpqlib.a(cprmasym.o)
+                              /mnt/hd1/dl/scctk/lib/scc/linux/gcc/cpqlib.a(cpdel.o) (CPRMAsyM)
+/mnt/hd1/dl/scctk/lib/scc/linux/gcc/cpqlib.a(nslmi096.o)
+                              /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(objmgr.o) (CPAllocMem)
+/mnt/hd1/dl/scctk/lib/scc/linux/gcc/cpqlib.a(nslmi123.o)
+                              /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(cleanprv.o) (CPFreeObj)
+/mnt/hd1/dl/scctk/lib/scc/linux/gcc/cpqlib.a(nslmi424.o)
+                              /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(cleanprv.o) (CPQueryObjectState)
+/mnt/hd1/dl/scctk/lib/scc/linux/gcc/cpqlib.a(nslri129.o)
+                              /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(objmgr.o) (CPQueryEffProc)
+/mnt/hd1/dl/scctk/lib/scc/linux/gcc/cpqlib.a(nslri130.o)
+                              /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(cleanprv.o) (CPGetProcName)
+/mnt/hd1/dl/scctk/lib/scc/linux/gcc/cpqlib.a(nslri147.o)
+                              /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(cleanprv.o) (CPCreateSerSem)
+/mnt/hd1/dl/scctk/lib/scc/linux/gcc/cpqlib.a(nslri340.o)
+                              /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(objmgr.o) (CPSetEffProc)
+/mnt/hd1/dl/scctk/lib/scc/linux/gcc/cpqlib.a(nslsi010.o)
+                              /mnt/hd1/dl/scctk/lib/scc/linux/gcc/cpqlib.a(cprmsynm.o) (CPSendMsg)
+/mnt/hd1/dl/scctk/lib/scc/linux/gcc/cpqlib.a(nslsi012.o)
+                              /mnt/hd1/dl/scctk/lib/scc/linux/gcc/cpqlib.a(cprmsynm.o) (CPRecvMsg)
+/mnt/hd1/dl/scctk/lib/scc/linux/gcc/cpqlib.a(nslsi018.o)
+                              /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(free.o) (CPSemClaim)
+/mnt/hd1/dl/scctk/lib/scc/linux/gcc/cpqlib.a(nslsi020.o)
+                              /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(free.o) (CPSemRelease)
+/mnt/hd1/dl/scctk/lib/scc/linux/gcc/cpqlib.a(nslsi022.o)
+                              /mnt/hd1/dl/scctk/lib/scc/linux/gcc/cpqlib.a(cprmcini.o) (CPResolveName)
+/mnt/hd1/dl/scctk/lib/scc/linux/gcc/cpqlib.a(nslsi023.o)
+                              /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(sm_io.o) (CPResolveID)
+/mnt/hd1/dl/scctk/lib/scc/linux/gcc/cpqlib.a(nslsi024.o)
+                              /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(sm_io.o) (CPQueryID)
+/mnt/hd1/dl/scctk/lib/scc/linux/gcc/cpqlib.a(nslsi033.o)
+                              /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(cleanprv.o) (CPHaltTask)
+/mnt/hd1/dl/scctk/lib/scc/linux/gcc/cpqlib.a(nslsi053.o)
+                              rpow.o (CPGetTime)
+/mnt/hd1/dl/scctk/lib/scc/linux/gcc/scclib.a(scclib03.o)
+                              cryptchan.o (sccTDESAsync)
+/mnt/hd1/dl/scctk/lib/scc/linux/gcc/scclib.a(scclib04.o)
+                              rpow.o (sccSignOn)
+/mnt/hd1/dl/scctk/lib/scc/linux/gcc/scclib.a(scclib05.o)
+                              rpow.o (sccGetBufferDataAsync)
+/mnt/hd1/dl/scctk/lib/scc/linux/gcc/scclib.a(scclib06.o)
+                              dbverify.o (sccGetPPDAsync)
+/mnt/hd1/dl/scctk/lib/scc/linux/gcc/scclib.a(scclib08.o)
+                              cryptchan.o (sccRSAAsync)
+/mnt/hd1/dl/scctk/lib/scc/linux/gcc/scclib.a(scclib09.o)
+                              rpow.o (sccGetConfig)
+/mnt/hd1/dl/scctk/lib/scc/linux/gcc/scclib.a(scclib10.o)
+                              keygen.o (sccOAGenerateAsync)
+/mnt/hd1/dl/scctk/lib/scc/linux/gcc/scclib.a(mb_iso.omu)
+                              /mnt/hd1/dl/scctk/lib/scc/linux/gcc/scclib.a(scclib10.o) (sign_extract)
+/mnt/hd1/dl/scctk/lib/scc/linux/gcc/scclib.a(sccgrand.o)
+                              cryptchan.o (sccGetRandomNumberAsync)
+/mnt/hd1/dl/scctk/lib/scc/linux/gcc/scclib.a(scclib01.o)
+                              /mnt/hd1/dl/scctk/lib/scc/linux/gcc/scclib.a(scclib03.o) (_DESMgrId)
+/mnt/hd1/dl/scctk/lib/scc/linux/gcc/scclib.a(scclib02.o)
+                              /mnt/hd1/dl/scctk/lib/scc/linux/gcc/scclib.a(scclib03.o) (_SyncMsg)
+/mnt/hd1/dl/scctk/lib/scc/linux/gcc/smlib.a(smlib04.o)
+                              /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(sm_io.o) (SMCreateSession)
+/mnt/hd1/dl/scctk/lib/scc/linux/gcc/smlib.a(smlib10.o)
+                              /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(sm_io.o) (SMPrintChar)
+/mnt/hd1/dl/scctk/lib/scc/linux/gcc/smlib.a(smlib11.o)
+                              /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(sm_io.o) (SMPrintString)
+/mnt/hd1/dl/scctk/lib/scc/linux/gcc/smlib.a(smlib02.o)
+                              /mnt/hd1/dl/scctk/lib/scc/linux/gcc/smlib.a(smlib04.o) (_smsyncmsg)
+/mnt/hd1/dl/scctk/lib/scc/linux/gcc/smlib.a(smlib03.o)
+                              /mnt/hd1/dl/scctk/lib/scc/linux/gcc/smlib.a(smlib11.o) (_smnowaitmsg)
+/mnt/hd1/dl/scctk/lib/scc/linux/gcc/smlib.a(smlib01.o)
+                              /mnt/hd1/dl/scctk/lib/scc/linux/gcc/smlib.a(smlib02.o) (_smqid)
+/mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(cstart.o)
+                              /mnt/hd1/dl/scctk/lib/scc/linux/gcc/cstartex.o (startup)
+/mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(abort.o)
+                              /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(cstart.o) (abort)
+/mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(copyrite.o)
+                              /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(cstart.o) (_copyright)
+/mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(cinitnon.o)
+                              /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(cstart.o) (cinit)
+/mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(exitnon.o)
+                              /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(cinitnon.o) (exit)
+/mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(memmove.o)
+                              /mnt/hd1/dl/scctk/lib/scc/linux/gcc/scclib.a(sccgrand.o) (memmove)
+/mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(strchr.o)
+                              /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(cinitnon.o) (strchr)
+/mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(strpbk.o)
+                              /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(cinitnon.o) (strpbrk)
+/mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(strspn.o)
+                              /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(cinitnon.o) (strspn)
+/mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(pre_main.o)
+                              /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(cinitnon.o) (pre_main)
+/mnt/hd1/dl/scctk/lib/scc/linux/gcc/cpqlib.a(nslri245.o)
+                              /mnt/hd1/dl/scctk/lib/scc/linux/gcc/scclib.a(scclib04.o) (CPCreateMsgQAcc)
+/mnt/hd1/dl/scctk/lib/scc/linux/gcc/cpqlib.a(nslsi016.o)
+                              /mnt/hd1/dl/scctk/lib/scc/linux/gcc/scclib.a(sccgrand.o) (CPSendRecvMsg)
+/mnt/hd1/dl/scctk/lib/scc/linux/gcc/cpqlib.a(nslsi025.o)
+                              /mnt/hd1/dl/scctk/lib/scc/linux/gcc/scclib.a(scclib04.o) (CPSVid2TCB)
+
+Allocating common symbols
+Common symbol       size              file
+
+gbig_value_two      0xc               gbignum.o
+gbig_value_zero     0xc               gbignum.o
+sdata               0x80              rpow.o
+tdata               0x4               dbverify.o
+powresource         0x2c              persist.o
+pdata2              0x4               persist.o
+callcount           0x4               rpow.o
+gbig_value_three    0xc               gbignum.o
+pubkeys             0x4               persist.o
+request             0x38              rpow.o
+pdata1              0x4               persist.o
+cardid              0xe               persist.o
+rpowblind           0x1f00            persist.o
+gbig_value_one      0xc               gbignum.o
+pdata               0x4               persist.o
+rpowsignpk          0x34              persist.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD rpow.o
+LOAD keygen.o
+LOAD cryptchan.o
+LOAD dbverify.o
+LOAD hmac.o
+LOAD gbignum.o
+LOAD rpowsign.o
+LOAD rpowutil.o
+LOAD rpio.o
+LOAD persist.o
+LOAD certvalid.o
+LOAD /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a
+LOAD /mnt/hd1/dl/scctk/lib/scc/linux/gcc/cstartex.o
+LOAD /mnt/hd1/dl/scctk/lib/scc/linux/gcc/cpqlib.a
+LOAD /mnt/hd1/dl/scctk/lib/scc/linux/gcc/scclib.a
+LOAD /mnt/hd1/dl/scctk/lib/scc/linux/gcc/smlib.a
+LOAD /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a
+LOAD /mnt/hd1/dl/scctk/lib/scc/linux/gcc/cstartex.o
+LOAD /mnt/hd1/dl/scctk/lib/scc/linux/gcc/cpqlib.a
+LOAD /mnt/hd1/dl/scctk/lib/scc/linux/gcc/scclib.a
+LOAD /mnt/hd1/dl/scctk/lib/scc/linux/gcc/smlib.a
+LOAD /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a
+LOAD /mnt/hd1/dl/scctk/lib/scc/linux/gcc/cstartex.o
+LOAD /mnt/hd1/dl/scctk/lib/scc/linux/gcc/cpqlib.a
+LOAD /mnt/hd1/dl/scctk/lib/scc/linux/gcc/scclib.a
+LOAD /mnt/hd1/dl/scctk/lib/scc/linux/gcc/smlib.a
+                0x00000094                .=(0x0+SIZEOF_HEADERS)
+
+.hash           0x00000094      0x900
+ *(.hash)
+ .hash          0x00000094      0x900 rpow.o
+
+.dynsym         0x00000994     0x1370
+ *(.dynsym)
+ .dynsym        0x00000994     0x1370 rpow.o
+
+.dynstr         0x00001d04      0xd9b
+ *(.dynstr)
+ .dynstr        0x00001d04      0xd9b rpow.o
+
+.gnu.version    0x00002aa0        0x0
+ *(.gnu.version)
+
+.gnu.version_d  0x00002aa0        0x0
+ *(.gnu.version_d)
+
+.gnu.version_r  0x00002aa0        0x0
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text       0x00002aa0     0x3c10
+ *(.rel.text)
+ .rel.text      0x00002aa0     0x3c10 rpow.o
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata     0x000066b0      0x410
+ *(.rel.rodata)
+ .rel.rodata    0x000066b0      0x410 rpow.o
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data       0x00006ac0       0x28
+ *(.rel.data)
+ .rel.data      0x00006ac0       0x28 rpow.o
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.sdata
+ *(.rel.sdata)
+ *(.rel.sdata.*)
+ *(.rel.gnu.linkonce.s*)
+
+.rela.sdata
+ *(.rela.sdata)
+ *(.rela.sdata.*)
+ *(.rela.gnu.linkonce.s*)
+
+.rel.sbss
+ *(.rel.sbss)
+
+.rela.sbss
+ *(.rela.sbss)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt        0x00006ae8        0x0
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.init
+ *(.init)
+
+.plt            0x00006ae8        0x0
+ *(.plt)
+
+.text           0x00006af0    0x11000
+ *(.text)
+ .text          0x00006af0      0x9a1 rpow.o
+                0x00006fdc                dostat
+                0x00006af0                main
+ *fill*         0x00007491        0x3 37008
+ .text          0x00007494      0xda6 keygen.o
+                0x00008174                dochain
+                0x00007494                blindgenall
+                0x00008034                getcertchain
+                0x00007a2c                dokeygen
+                0x000081e0                setrpowsignpk
+ *fill*         0x0000823a        0x2 37008
+ .text          0x0000823c      0xdd3 cryptchan.o
+                0x00008eac                tdesencrypt
+                0x00008d38                decryptmaster
+                0x00008c88                keyfromcert
+                0x00008748                decryptinput
+                0x00008df4                tdesdecrypt
+                0x000089dc                encryptoutput
+                0x00008fe4                tdesunpad
+                0x00008f7c                tdespad
+ *fill*         0x0000900f        0x1 37008
+ .text          0x00009010      0xebb dbverify.o
+                0x00009df4                initdb
+                0x00009368                dbresetpow
+                0x00009010                testdbandset
+                0x000091e0                newdb
+                0x00009e44                checkdbfileid
+                0x00009e74                rebootdb
+ *fill*         0x00009ecb        0x1 37008
+ .text          0x00009ecc      0x508 hmac.o
+                0x00009ecc                gbig_hmac_buf
+                0x0000a154                gbig_hmac_init
+                0x0000a298                gbig_hmac_update
+                0x0000a2b4                gbig_hmac_final
+ .text          0x0000a3d4     0x1e27 gbignum.o
+                0x0000bc8c                gbig_cmp
+                0x0000b7e4                gbig_sha1_update
+                0x0000b2a8                gbig_rand_range
+                0x0000b934                gbig_init
+                0x0000b688                gbig_initialize
+                0x0000c0e0                _gbig_norm
+                0x0000bea0                gbig_to_word
+                0x0000bf80                gbig_to_buf_len
+                0x0000b7cc                gbig_sha1_init
+                0x0000bfe4                gbig_from_buf
+                0x0000bfd8                gbig_buflen
+                0x0000acdc                gbig_mod_inverse
+                0x0000ba44                gbig_div
+                0x0000b6f8                gbig_rand_bytes
+                0x0000baa4                gbig_mod
+                0x0000b8c8                gbig_sha1_final
+                0x0000a534                gbig_sub
+                0x0000aa34                gbig_mod_add
+                0x0000c140                _gbig_modmath
+                0x0000bdcc                gbig_from_word
+                0x0000bf54                gbig_to_buf
+                0x0000bbdc                gbig_mod_exp
+                0x0000a3d4                gbig_add
+                0x0000b980                gbig_copy
+                0x0000b94c                gbig_free
+                0x0000a7b8                gbig_div_mod
+                0x0000ab58                gbig_mod_sub
+                0x0000b9d4                gbig_mul
+                0x0000bf24                gbig_set_bit
+                0x0000b758                gbig_sha1_buf
+                0x0000b6c4                gbig_finalize
+                0x0000bb2c                gbig_mod_mul
+                0x0000bf3c                gbig_clear_bit
+ *fill*         0x0000c1fb        0x1 37008
+ .text          0x0000c1fc      0x834 rpowsign.o
+                0x0000c1fc                dosign
+                0x0000c85c                privkey_rawsign
+ .text          0x0000ca30      0xadb rpowutil.o
+                0x0000ca30                rpow_read
+                0x0000d300                issmallprime
+                0x0000d4e4                rpow_validate
+                0x0000d4c0                rpowpend_free
+                0x0000d408                rpow_free
+                0x0000d440                rpowpend_read
+                0x0000cb8c                rpow_write
+                0x0000d344                valuetoexp
+ *fill*         0x0000d50b        0x1 37008
+ .text          0x0000d50c      0x5d3 rpio.o
+                0x0000d9cc                rp_new_from_malloc_buf
+                0x0000d7d4                pubkey_write
+                0x0000d624                bnread
+                0x0000daa8                rp_read
+                0x0000d50c                bnwrite
+                0x0000d6ec                pubkey_read
+                0x0000d930                rp_new
+                0x0000d968                rp_new_from_buf
+                0x0000da04                rp_buf
+                0x0000da1c                rp_free
+                0x0000da48                rp_write
+ *fill*         0x0000dadf        0x1 37008
+ .text          0x0000dae0     0x166f persist.o
+                0x0000f044                swappdata
+                0x0000f024                pk_from_index
+                0x0000e65c                addpubkey
+                0x0000ebe8                savesecrets
+                0x0000edb8                initpubkeys
+                0x0000dae0                pk_to_keyid
+                0x0000e0f8                setcardid
+                0x0000ee10                dochangekeystate
+                0x0000dbec                rebootpubkeys
+                0x0000e998                rebootsecrets
+                0x0000e798                doaddkey
+                0x0000eea0                pk_from_keyid
+ *fill*         0x0000f14f        0x1 37008
+ .text          0x0000f150      0x4a3 certvalid.o
+                0x0000f150                certvalidate
+ *fill*         0x0000f5f3        0xd 37008
+ .text          0x0000f600       0x22 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(atoi.o)
+                0x0000f600                atoi
+ *fill*         0x0000f622        0xe 37008
+ .text          0x0000f630       0x35 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(byteswap.o)
+                0x0000f63c                swapl_r
+                0x0000f63c                _swapl_r
+                0x0000f648                _swapq_r
+                0x0000f648                swapq_r
+                0x0000f630                _swaps_r
+                0x0000f630                swaps_r
+ *fill*         0x0000f665        0xb 37008
+ .text          0x0000f670       0x4a /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(calloc.o)
+                0x0000f670                calloc
+ *fill*         0x0000f6ba        0x6 37008
+ .text          0x0000f6c0       0x59 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(free.o)
+                0x0000f6c0                free
+ *fill*         0x0000f719        0x3 37008
+ .text          0x0000f71c       0x90 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(localtim.o)
+                0x0000f71c                localtime
+ *fill*         0x0000f7ac        0x4 37008
+ .text          0x0000f7b0       0x9a /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(malloc.o)
+                0x0000f7b0                malloc
+ *fill*         0x0000f84a        0x6 37008
+ .text          0x0000f850       0x58 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(memcmp.o)
+                0x0000f850                memcmp
+ *fill*         0x0000f8a8        0x8 37008
+ .text          0x0000f8b0       0x42 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(memcpy.o)
+                0x0000f8b0                memcpy
+ *fill*         0x0000f8f2        0xe 37008
+ .text          0x0000f900       0x39 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(memset.o)
+                0x0000f900                memset
+ *fill*         0x0000f939        0x7 37008
+ .text          0x0000f940      0x487 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(mktime.o)
+                0x0000f940                mktime
+ *fill*         0x0000fdc7        0x9 37008
+ .text          0x0000fdd0      0x632 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(objmgr.o)
+                0x0000fe40                __stripobjpage
+                0x0001021c                _objalloc
+                0x0000ff08                __canrecombine
+                0x00010198                __findobj
+                0x000101d8                __srchobjchain
+                0x0000ff78                __insertobj
+                0x0000fdd0                __getobjpage
+                0x00010110                __deleteobj
+                0x00010374                _objfree
+ *fill*         0x00010402        0xe 37008
+ .text          0x00010410      0x1ea /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(reallo.o)
+                0x00010410                realloc
+ *fill*         0x000105fa        0x6 37008
+ .text          0x00010600       0x92 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(sprntf.o)
+                0x00010600                sprintf
+ *fill*         0x00010692        0xe 37008
+ .text          0x000106a0       0x52 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(strcat.o)
+                0x000106a0                strcat
+ *fill*         0x000106f2        0xe 37008
+ .text          0x00010700       0x42 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(strcmp.o)
+                0x00010700                strcmp
+ *fill*         0x00010742        0xe 37008
+ .text          0x00010750       0x35 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(strlen.o)
+                0x00010750                strlen
+ *fill*         0x00010785        0xb 37008
+ .text          0x00010790       0x82 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(strncpy.o)
+                0x00010790                strncpy
+ *fill*         0x00010812        0xe 37008
+ .text          0x00010820      0x36e /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(strtol.o)
+                0x00010820                strtoul
+                0x00010844                strtol
+ *fill*         0x00010b8e        0x2 37008
+ .text          0x00010b90       0x29 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(time.o)
+                0x00010b90                time
+ *fill*         0x00010bb9        0x7 37008
+ .text          0x00010bc0       0x39 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(tolowr.o)
+                0x00010bc0                tolower
+ *fill*         0x00010bf9        0x3 37008
+ *fill*         0x00010bfc        0x4 37008
+ .text          0x00010c00      0x205 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(cleanprv.o)
+                0x00010c00                _getprivateobject
+                0x00010d44                _objmgrcleanup
+ *fill*         0x00010e05        0x3 37008
+ *fill*         0x00010e08        0x8 37008
+ .text          0x00010e10     0x2078 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(doprnt.o)
+                0x000112c8                _doprnt
+                0x00010eb4                cvt
+                0x00010e64                isNaN
+ *fill*         0x00012e88        0x8 37008
+ .text          0x00012e90      0x187 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(ftime.o)
+                0x00012e90                ftime
+ *fill*         0x00013017        0x9 37008
+ .text          0x00013020      0x2c8 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(gmtime.o)
+                0x00013020                gmtime
+ *fill*         0x000132e8        0x8 37008
+ .text          0x000132f0      0x387 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(isdst.o)
+                0x000132f0                _isdst
+ *fill*         0x00013677        0x9 37008
+ .text          0x00013680       0xd9 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(sm_io.o)
+                0x000136f4                init_sess
+                0x00013680                prtscrn
+ *fill*         0x00013759        0x7 37008
+ .text          0x00013760       0x32 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(strcpy.o)
+                0x00013760                strcpy
+ *fill*         0x00013792        0x2 37008
+ *fill*         0x00013794        0xc 37008
+ .text          0x000137a0       0xa6 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/cpqlib.a(cpdel.o)
+                0x000137a0                CPDelete
+ *fill*         0x00013846        0xa 37008
+ .text          0x00013850       0x42 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/cpqlib.a(cprmcini.o)
+                0x00013850                CPRMCini
+ *fill*         0x00013892        0xe 37008
+ .text          0x000138a0       0xb9 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/cpqlib.a(cprmsynm.o)
+                0x000138a0                CPRMSynM
+ *fill*         0x00013959        0x7 37008
+ .text          0x00013960       0x62 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/cpqlib.a(cprmasym.o)
+                0x00013960                CPRMAsyM
+ *fill*         0x000139c2        0xe 37008
+ .text          0x000139d0       0x2b /mnt/hd1/dl/scctk/lib/scc/linux/gcc/cpqlib.a(nslmi096.o)
+                0x000139d0                _CPAllocMem
+                0x000139d0                CPAllocMem
+ *fill*         0x000139fb        0x5 37008
+ .text          0x00013a00       0x17 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/cpqlib.a(nslmi123.o)
+                0x00013a00                CPFreeObj
+                0x00013a00                _CPFreeObj
+ *fill*         0x00013a17        0x9 37008
+ .text          0x00013a20       0x3b /mnt/hd1/dl/scctk/lib/scc/linux/gcc/cpqlib.a(nslmi424.o)
+                0x00013a20                CPQueryObjectState
+                0x00013a20                _CPQueryObjectState
+ *fill*         0x00013a5b        0x5 37008
+ .text          0x00013a60       0x15 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/cpqlib.a(nslri129.o)
+                0x00013a60                _CPQueryEffProc
+                0x00013a60                CPQueryEffProc
+ *fill*         0x00013a75        0xb 37008
+ .text          0x00013a80       0x21 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/cpqlib.a(nslri130.o)
+                0x00013a80                _CPGetProcName
+                0x00013a80                CPGetProcName
+ *fill*         0x00013aa1        0xf 37008
+ .text          0x00013ab0       0x54 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/cpqlib.a(nslri147.o)
+                0x00013ab0                CPCreateSerSem
+                0x00013ab0                _CPCreateSerSem
+ *fill*         0x00013b04        0xc 37008
+ .text          0x00013b10       0x1d /mnt/hd1/dl/scctk/lib/scc/linux/gcc/cpqlib.a(nslri340.o)
+                0x00013b10                CPSetEffProc
+                0x00013b10                _CPSetEffProc
+ *fill*         0x00013b2d        0x3 37008
+ .text          0x00013b30       0x1a /mnt/hd1/dl/scctk/lib/scc/linux/gcc/cpqlib.a(nslsi010.o)
+                0x00013b30                CPSendMsg
+                0x00013b30                _CPSendMsg
+ *fill*         0x00013b4a        0x6 37008
+ .text          0x00013b50       0x24 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/cpqlib.a(nslsi012.o)
+                0x00013b50                CPRecvMsg
+                0x00013b50                _CPRecvMsg
+ *fill*         0x00013b74        0xc 37008
+ .text          0x00013b80       0x15 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/cpqlib.a(nslsi018.o)
+                0x00013b80                _CPSemClaim
+                0x00013b80                CPSemClaim
+ *fill*         0x00013b95        0xb 37008
+ .text          0x00013ba0       0x10 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/cpqlib.a(nslsi020.o)
+                0x00013ba0                CPSemRelease
+                0x00013ba0                _CPSemRelease
+ .text          0x00013bb0       0x28 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/cpqlib.a(nslsi022.o)
+                0x00013bb0                _CPResolveName
+                0x00013bb0                CPResolveName
+ *fill*         0x00013bd8        0x8 37008
+ .text          0x00013be0       0x15 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/cpqlib.a(nslsi023.o)
+                0x00013be0                _CPResolveID
+                0x00013be0                CPResolveID
+ *fill*         0x00013bf5        0xb 37008
+ .text          0x00013c00       0x29 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/cpqlib.a(nslsi024.o)
+                0x00013c00                CPQueryID
+                0x00013c00                _CPQueryID
+ *fill*         0x00013c29        0x7 37008
+ .text          0x00013c30       0x10 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/cpqlib.a(nslsi033.o)
+                0x00013c30                CPHaltTask
+                0x00013c30                _CPHaltTask
+ .text          0x00013c40       0x10 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/cpqlib.a(nslsi053.o)
+                0x00013c40                CPGetTime
+                0x00013c40                _CPGetTime
+ .text          0x00013c50      0x4ba /mnt/hd1/dl/scctk/lib/scc/linux/gcc/scclib.a(scclib03.o)
+                0x00014008                sccSHA1Async
+                0x00013e28                sccDES3KeyAsync
+                0x00013d38                sccTDESAsync
+                0x00013c50                sccDESAsync
+                0x00013f18                sccDES8bytesAsync
+ *fill*         0x0001410a        0x6 37008
+ .text          0x00014110      0x1e2 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/scclib.a(scclib04.o)
+                0x0001424c                sccGetNextHeader
+                0x00014110                sccSignOn
+ *fill*         0x000142f2        0xe 37008
+ .text          0x00014300      0x242 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/scclib.a(scclib05.o)
+                0x000143cc                sccPutBufferDataAsync
+                0x0001449c                sccEndRequest
+                0x00014300                sccGetBufferDataAsync
+ *fill*         0x00014542        0xe 37008
+ .text          0x00014550      0x662 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/scclib.a(scclib06.o)
+                0x0001460c                sccSavePPDAsync
+                0x00014adc                sccGetPPDDirAsync
+                0x00014a44                sccDeleteAllPPDAsync
+                0x000146d4                sccCreate4UpdatePPDAsync
+                0x0001479c                sccUpdatePPDAsync
+                0x00014550                sccGetPPDAsync
+                0x00014864                sccGetPPDLen
+                0x00014904                sccQueryPPDSpace
+                0x00014994                sccDeletePPDAsync
+ *fill*         0x00014bb2        0xe 37008
+ .text          0x00014bc0      0x4c8 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/scclib.a(scclib08.o)
+                0x00014d1c                sccComputeBlindingValuesAsync
+                0x00014e7c                sccDSAKeyGenerateAsync
+                0x00014bc0                sccRSAAsync
+                0x00014c6c                sccRSAKeyGenerateAsync
+                0x00014f2c                sccModMathAsync
+                0x00014dcc                sccDSAAsync
+ *fill*         0x00015088        0x8 37008
+ .text          0x00015090      0x2b9 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/scclib.a(scclib09.o)
+                0x00015090                sccGetConfig
+                0x0001517c                sccSetClock
+                0x000152bc                sccClearLowBatt
+                0x0001522c                sccClearILatch
+ *fill*         0x00015349        0x7 37008
+ .text          0x00015350      0xb3a /mnt/hd1/dl/scctk/lib/scc/linux/gcc/scclib.a(scclib10.o)
+                0x0001562c                sccOADeleteAsync
+                0x000157d8                oa_hash
+                0x000158d8                oa_verify_sig
+                0x000154bc                sccOAGetDirAsync
+                0x00015784                oa_var_to_ptr_check
+                0x0001556c                sccOAGetCertAsync
+                0x00015350                sccOAGenerateAsync
+                0x00015404                sccOAPrivOpAsync
+                0x000156dc                sccOAStatusAsync
+                0x00015bdc                sccOAVerify
+ *fill*         0x00015e8a        0x6 37008
+ .text          0x00015e90      0xca0 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/scclib.a(mb_iso.omu)
+                0x00015ee4                sign_extract
+                0x00016864                iso_known_answer_tests
+                0x00015e90                sign_extend
+ .text          0x00016b30      0x259 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/scclib.a(sccgrand.o)
+                0x00016c74                sccTestRandomNumberAsync
+                0x00016b30                sccGetRandomNumberAsync
+ *fill*         0x00016d89        0x7 37008
+ .text          0x00016d90      0x20a /mnt/hd1/dl/scctk/lib/scc/linux/gcc/scclib.a(scclib01.o)
+                0x00016d90                _sccLibInit
+ *fill*         0x00016f9a        0x6 37008
+ .text          0x00016fa0       0xd2 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/scclib.a(scclib02.o)
+                0x00017024                _AsyncMsg
+                0x00016fa0                _SyncMsg
+ *fill*         0x00017072        0xe 37008
+ .text          0x00017080       0xf2 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/smlib.a(smlib04.o)
+                0x00017080                SMCreateSession
+ *fill*         0x00017172        0xe 37008
+ .text          0x00017180       0x69 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/smlib.a(smlib10.o)
+                0x00017180                SMPrintChar
+ *fill*         0x000171e9        0x7 37008
+ .text          0x000171f0      0x142 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/smlib.a(smlib11.o)
+                0x000171f0                SMPrintString
+ *fill*         0x00017332        0xe 37008
+ .text          0x00017340       0xb2 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/smlib.a(smlib02.o)
+                0x00017340                _smsyncmsg
+ *fill*         0x000173f2        0xe 37008
+ .text          0x00017400       0x82 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/smlib.a(smlib03.o)
+                0x00017400                _smnowaitmsg
+ *fill*         0x00017482        0xe 37008
+ .text          0x00017490       0x42 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/smlib.a(smlib01.o)
+                0x00017490                _SMLibInit
+ *fill*         0x000174d2        0xe 37008
+ .text          0x000174e0      0x1c0 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(cstart.o)
+                0x00017590                startup
+                0x00017545                _cjlvsn
+                0x00017590                _startup
+                0x00017550                _patcharea
+                0x000174e0                _coibm
+ .text          0x000176a0       0x13 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(abort.o)
+                0x000176a0                abort
+ *fill*         0x000176b3        0xd 37008
+ .text          0x000176c0        0x7 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(copyrite.o)
+                0x000176c0                _copyright
+ *fill*         0x000176c7        0x9 37008
+ .text          0x000176d0      0x185 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(cinitnon.o)
+                0x000176d0                cinit
+ *fill*         0x00017855        0xb 37008
+ .text          0x00017860       0x71 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(exitnon.o)
+                0x00017878                exit
+                0x00017860                _exit
+ *fill*         0x000178d1        0xf 37008
+ .text          0x000178e0       0x85 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(memmove.o)
+                0x000178e0                memmove
+ *fill*         0x00017965        0xb 37008
+ .text          0x00017970       0x32 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(strchr.o)
+                0x00017970                strchr
+ *fill*         0x000179a2        0xe 37008
+ .text          0x000179b0       0x48 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(strpbk.o)
+                0x000179b0                strpbrk
+ *fill*         0x000179f8        0x8 37008
+ .text          0x00017a00       0x41 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(strspn.o)
+                0x00017a00                strspn
+ *fill*         0x00017a41        0xf 37008
+ .text          0x00017a50        0xd /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(pre_main.o)
+                0x00017a50                _pre_main
+                0x00017a50                pre_main
+ *fill*         0x00017a5d        0x3 37008
+ .text          0x00017a60       0x34 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/cpqlib.a(nslri245.o)
+                0x00017a60                CPCreateMsgQAcc
+                0x00017a60                _CPCreateMsgQAcc
+ *fill*         0x00017a94        0xc 37008
+ .text          0x00017aa0       0x26 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/cpqlib.a(nslsi016.o)
+                0x00017aa0                _CPSendRecvMsg
+                0x00017aa0                CPSendRecvMsg
+ *fill*         0x00017ac6        0xa 37008
+ .text          0x00017ad0       0x20 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/cpqlib.a(nslsi025.o)
+                0x00017ad0                CPSVid2TCB
+                0x00017ad0                _CPSVid2TCB
+ *(.text.*)
+ *(.stub)
+ *(.gnu.warning)
+ *(.gnu.linkonce.t*)
+                0x00017af0                _etext=.
+                0x00017af0                PROVIDE (etext, .)
+
+.fini
+ *(.fini)
+
+.rodata         0x00017b00      0x5e3
+ *(.rodata)
+ .rodata        0x00017b00       0x24 rpow.o
+ .rodata        0x00017b24       0x23 cryptchan.o
+ .rodata        0x00017b47       0x14 dbverify.o
+                0x00017b47                inithashroot
+ .rodata        0x00017b5b       0x11 persist.o
+ .rodata        0x00017b6c        0x5 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(cleanprv.o)
+ .rodata        0x00017b71      0x100 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(ctype.o)
+                0x00017b71                _ctype
+ *fill*         0x00017c71        0xf
+ .rodata        0x00017c80      0x28c /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(doprnt.o)
+ .rodata        0x00017f0c        0x9 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/cpqlib.a(cprmcini.o)
+ .rodata        0x00017f15        0x1 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/scclib.a(scclib04.o)
+ .rodata        0x00017f16      0x180 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/scclib.a(mb_iso.omu)
+ .rodata        0x00018096        0x8 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/scclib.a(sccgrand.o)
+                0x00018096                random_name
+ .rodata        0x0001809e       0x39 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/scclib.a(scclib01.o)
+ .rodata        0x000180d7        0x9 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/smlib.a(smlib01.o)
+ .rodata        0x000180e0        0x3 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(cinitnon.o)
+ *(.rodata.*)
+ *(.gnu.linkonce.r*)
+
+.rodata1
+ *(.rodata1)
+                0x000190e3                .=(ALIGN(0x1000)+(.&0xfff))
+
+.data           0x00019100      0x3f8
+ *(.data)
+ .data          0x00019100       0x10 rpow.o
+ .data          0x00019110       0x14 cryptchan.o
+ .data          0x00019124        0x8 dbverify.o
+ *fill*         0x0001912c       0x14
+ .data          0x00019140      0x1ac gbignum.o
+ .data          0x000192ec       0x18 persist.o
+ .data          0x00019304       0x28 certvalid.o
+ .data          0x0001932c       0x34 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(mktime.o)
+                0x0001932c                _mdays
+ .data          0x00019360       0xb4 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(cjldata.o)
+                0x00019400                _cdapage
+                0x00019404                _cjlrc
+                0x00019408                errno
+                0x00019410                _envarea
+                0x00019360                _ARGV
+                0x0001940c                _fullname
+ .data          0x00019414       0x20 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(cleanprv.o)
+                0x00019420                _privobjtype
+                0x00019414                _objmgrSem
+                0x00019418                _privobjstart
+                0x0001941c                _privobjend
+ *fill*         0x00019434        0xc
+ .data          0x00019440       0x64 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(gmtime.o)
+                0x00019440                _mday
+ .data          0x000194a4        0x9 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(sm_io.o)
+ *fill*         0x000194ad        0x3
+ .data          0x000194b0        0x4 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/cstartex.o
+ .data          0x000194b4        0x4 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/cpqlib.a(cprmcini.o)
+                0x000194b4                rmqid
+ .data          0x000194b8        0x4 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/scclib.a(sccgrand.o)
+                0x000194b8                _RNGMgrId
+ .data          0x000194bc       0x1c /mnt/hd1/dl/scctk/lib/scc/linux/gcc/scclib.a(scclib01.o)
+                0x000194cc                _ComMgrId
+                0x000194d0                _PPDMgrId
+                0x000194c0                _SCCMgrId
+                0x000194d4                _OAMgrId
+                0x000194c8                _PKAMgrId2
+                0x000194bc                _DESMgrId
+                0x000194c4                _PKAMgrId
+ .data          0x000194d8        0x4 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/smlib.a(smlib01.o)
+                0x000194d8                _smqid
+ .data          0x000194dc       0x10 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(cstart.o)
+ .data          0x000194ec        0x4 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(exitnon.o)
+                0x000194ec                _xchnptr
+ .data          0x000194f0        0x4 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/cstartex.o
+ .data          0x000194f4        0x4 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/cstartex.o
+ *(.data.*)
+ *(.gnu.linkonce.d*)
+
+.data1
+ *(.data1)
+
+.eh_frame
+ *(.eh_frame)
+
+.gcc_except_table
+ *(.gcc_except_table)
+
+.ctors
+ *crtbegin.o(.ctors)
+ EXCLUDE_FILE ( *crtend.o)*(.ctors)
+ *(SORT(.ctors.*))
+ *(.ctors)
+
+.dtors
+ *crtbegin.o(.dtors)
+ EXCLUDE_FILE ( *crtend.o)*(.dtors)
+ *(SORT(.dtors.*))
+ *(.dtors)
+
+.got            0x000194f8        0xc
+ *(.got.plt)
+ .got.plt       0x000194f8        0xc rpow.o
+                0x000194f8                _GLOBAL_OFFSET_TABLE_
+ *(.got)
+
+.dynamic        0x00019504       0x50
+ *(.dynamic)
+ .dynamic       0x00019504       0x50 rpow.o
+                0x00019504                _DYNAMIC
+
+.sdata
+ *(.sdata)
+ *(.sdata.*)
+ *(.gnu.linkonce.s.*)
+                0x00019554                _edata=.
+                0x00019554                PROVIDE (edata, .)
+                0x00019554                __bss_start=.
+
+.sbss
+ *(.dynsbss)
+ *(.sbss)
+ *(.sbss.*)
+ *(.scommon)
+
+.bss            0x00019560     0x33f4
+ *(.dynbss)
+ *(.bss)
+ .bss           0x00019560       0x1c keygen.o
+ *fill*         0x0001957c        0x4
+ .bss           0x00019580      0xff8 dbverify.o
+ *fill*         0x0001a578        0x8
+ .bss           0x0001a580      0x292 rpowutil.o
+ *fill*         0x0001a812        0x2
+ *fill*         0x0001a814        0x4
+ .bss           0x0001a818        0x8 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(doprnt.o)
+ .bss           0x0001a820       0x58 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/scclib.a(scclib04.o)
+ *(.bss.*)
+ *(COMMON)
+ *fill*         0x0001a878        0x8
+ COMMON         0x0001a880       0xd8 rpow.o
+                                  0x0 (size before relaxing)
+                0x0001a880                sdata
+                0x0001a900                callcount
+                0x0001a920                request
+ COMMON         0x0001a958        0x4 dbverify.o
+                                  0x0 (size before relaxing)
+                0x0001a958                tdata
+ *fill*         0x0001a95c        0x4
+ COMMON         0x0001a960       0x3c gbignum.o
+                                  0x0 (size before relaxing)
+                0x0001a960                gbig_value_two
+                0x0001a970                gbig_value_zero
+                0x0001a980                gbig_value_three
+                0x0001a990                gbig_value_one
+ *fill*         0x0001a99c        0x4
+ COMMON         0x0001a9a0     0x1fb4 persist.o
+                                  0x0 (size before relaxing)
+                0x0001a9a0                powresource
+                0x0001a9cc                pdata2
+                0x0001a9d0                pubkeys
+                0x0001a9d4                pdata1
+                0x0001a9d8                cardid
+                0x0001aa00                rpowblind
+                0x0001c900                pdata
+                0x0001c920                rpowsignpk
+                0x0001c954                .=ALIGN(0x4)
+                0x0001c954                .=ALIGN(0x4)
+                0x0001c954                _end=.
+                0x0001c954                PROVIDE (end, .)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000     0x1256
+ *(.comment)
+ .comment       0x00000000       0x26 rpow.o
+ .comment       0x00000026       0x26 keygen.o
+ .comment       0x0000004c       0x26 cryptchan.o
+ .comment       0x00000072       0x26 dbverify.o
+ .comment       0x00000098       0x26 hmac.o
+ .comment       0x000000be       0x26 gbignum.o
+ .comment       0x000000e4       0x26 rpowsign.o
+ .comment       0x0000010a       0x26 rpowutil.o
+ .comment       0x00000130       0x26 rpio.o
+ .comment       0x00000156       0x26 persist.o
+ .comment       0x0000017c       0x26 certvalid.o
+ .comment       0x000001a2       0x3d /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(atoi.o)
+ .comment       0x000001df       0x1c /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(byteswap.o)
+ .comment       0x000001fb       0x3d /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(calloc.o)
+ .comment       0x00000238       0x3d /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(free.o)
+ .comment       0x00000275       0x3d /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(localtim.o)
+ .comment       0x000002b2       0x3d /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(malloc.o)
+ .comment       0x000002ef       0x3d /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(memcmp.o)
+ .comment       0x0000032c       0x3d /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(memcpy.o)
+ .comment       0x00000369       0x3d /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(memset.o)
+ .comment       0x000003a6       0x3d /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(mktime.o)
+ .comment       0x000003e3       0x3d /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(objmgr.o)
+ .comment       0x00000420       0x3d /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(reallo.o)
+ .comment       0x0000045d       0x3d /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(sprntf.o)
+ .comment       0x0000049a       0x3d /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(strcat.o)
+ .comment       0x000004d7       0x3d /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(strcmp.o)
+ .comment       0x00000514       0x3d /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(strlen.o)
+ .comment       0x00000551       0x3d /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(strncpy.o)
+ .comment       0x0000058e       0x3d /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(strtol.o)
+ .comment       0x000005cb       0x3d /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(time.o)
+ .comment       0x00000608       0x3d /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(tolowr.o)
+ .comment       0x00000645       0x3d /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(cjldata.o)
+ .comment       0x00000682       0x3d /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(cleanprv.o)
+ .comment       0x000006bf       0x3d /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(ctype.o)
+ .comment       0x000006fc       0x3d /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(doprnt.o)
+ .comment       0x00000739       0x3d /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(ftime.o)
+ .comment       0x00000776       0x3d /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(gmtime.o)
+ .comment       0x000007b3       0x3d /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(isdst.o)
+ .comment       0x000007f0       0x3d /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(sm_io.o)
+ .comment       0x0000082d       0x3d /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(strcpy.o)
+ .comment       0x0000086a       0x3d /mnt/hd1/dl/scctk/lib/scc/linux/gcc/cstartex.o
+ .comment       0x000008a7       0x3d /mnt/hd1/dl/scctk/lib/scc/linux/gcc/cpqlib.a(cpdel.o)
+ .comment       0x000008e4       0x3d /mnt/hd1/dl/scctk/lib/scc/linux/gcc/cpqlib.a(cprmcini.o)
+ .comment       0x00000921       0x3d /mnt/hd1/dl/scctk/lib/scc/linux/gcc/cpqlib.a(cprmsynm.o)
+ .comment       0x0000095e       0x3d /mnt/hd1/dl/scctk/lib/scc/linux/gcc/cpqlib.a(cprmasym.o)
+ .comment       0x0000099b       0x1c /mnt/hd1/dl/scctk/lib/scc/linux/gcc/cpqlib.a(nslmi096.o)
+ .comment       0x000009b7       0x1c /mnt/hd1/dl/scctk/lib/scc/linux/gcc/cpqlib.a(nslmi123.o)
+ .comment       0x000009d3       0x1c /mnt/hd1/dl/scctk/lib/scc/linux/gcc/cpqlib.a(nslmi424.o)
+ .comment       0x000009ef       0x1c /mnt/hd1/dl/scctk/lib/scc/linux/gcc/cpqlib.a(nslri129.o)
+ .comment       0x00000a0b       0x1c /mnt/hd1/dl/scctk/lib/scc/linux/gcc/cpqlib.a(nslri130.o)
+ .comment       0x00000a27       0x1c /mnt/hd1/dl/scctk/lib/scc/linux/gcc/cpqlib.a(nslri147.o)
+ .comment       0x00000a43       0x1c /mnt/hd1/dl/scctk/lib/scc/linux/gcc/cpqlib.a(nslri340.o)
+ .comment       0x00000a5f       0x1c /mnt/hd1/dl/scctk/lib/scc/linux/gcc/cpqlib.a(nslsi010.o)
+ .comment       0x00000a7b       0x1c /mnt/hd1/dl/scctk/lib/scc/linux/gcc/cpqlib.a(nslsi012.o)
+ .comment       0x00000a97       0x1c /mnt/hd1/dl/scctk/lib/scc/linux/gcc/cpqlib.a(nslsi018.o)
+ .comment       0x00000ab3       0x1c /mnt/hd1/dl/scctk/lib/scc/linux/gcc/cpqlib.a(nslsi020.o)
+ .comment       0x00000acf       0x1c /mnt/hd1/dl/scctk/lib/scc/linux/gcc/cpqlib.a(nslsi022.o)
+ .comment       0x00000aeb       0x1c /mnt/hd1/dl/scctk/lib/scc/linux/gcc/cpqlib.a(nslsi023.o)
+ .comment       0x00000b07       0x1c /mnt/hd1/dl/scctk/lib/scc/linux/gcc/cpqlib.a(nslsi024.o)
+ .comment       0x00000b23       0x1c /mnt/hd1/dl/scctk/lib/scc/linux/gcc/cpqlib.a(nslsi033.o)
+ .comment       0x00000b3f       0x1c /mnt/hd1/dl/scctk/lib/scc/linux/gcc/cpqlib.a(nslsi053.o)
+ .comment       0x00000b5b       0x3d /mnt/hd1/dl/scctk/lib/scc/linux/gcc/scclib.a(scclib03.o)
+ .comment       0x00000b98       0x3d /mnt/hd1/dl/scctk/lib/scc/linux/gcc/scclib.a(scclib04.o)
+ .comment       0x00000bd5       0x3d /mnt/hd1/dl/scctk/lib/scc/linux/gcc/scclib.a(scclib05.o)
+ .comment       0x00000c12       0x3d /mnt/hd1/dl/scctk/lib/scc/linux/gcc/scclib.a(scclib06.o)
+ .comment       0x00000c4f       0x3d /mnt/hd1/dl/scctk/lib/scc/linux/gcc/scclib.a(scclib08.o)
+ .comment       0x00000c8c       0x3d /mnt/hd1/dl/scctk/lib/scc/linux/gcc/scclib.a(scclib09.o)
+ .comment       0x00000cc9       0x3d /mnt/hd1/dl/scctk/lib/scc/linux/gcc/scclib.a(scclib10.o)
+ .comment       0x00000d06       0x3d /mnt/hd1/dl/scctk/lib/scc/linux/gcc/scclib.a(mb_iso.omu)
+ .comment       0x00000d43       0x3d /mnt/hd1/dl/scctk/lib/scc/linux/gcc/scclib.a(sccgrand.o)
+ .comment       0x00000d80       0x3d /mnt/hd1/dl/scctk/lib/scc/linux/gcc/scclib.a(scclib01.o)
+ .comment       0x00000dbd       0x3d /mnt/hd1/dl/scctk/lib/scc/linux/gcc/scclib.a(scclib02.o)
+ .comment       0x00000dfa       0x3d /mnt/hd1/dl/scctk/lib/scc/linux/gcc/smlib.a(smlib04.o)
+ .comment       0x00000e37       0x3d /mnt/hd1/dl/scctk/lib/scc/linux/gcc/smlib.a(smlib10.o)
+ .comment       0x00000e74       0x3d /mnt/hd1/dl/scctk/lib/scc/linux/gcc/smlib.a(smlib11.o)
+ .comment       0x00000eb1       0x3d /mnt/hd1/dl/scctk/lib/scc/linux/gcc/smlib.a(smlib02.o)
+ .comment       0x00000eee       0x3d /mnt/hd1/dl/scctk/lib/scc/linux/gcc/smlib.a(smlib03.o)
+ .comment       0x00000f2b       0x3d /mnt/hd1/dl/scctk/lib/scc/linux/gcc/smlib.a(smlib01.o)
+ .comment       0x00000f68       0x1c /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(cstart.o)
+ .comment       0x00000f84       0x3d /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(abort.o)
+ .comment       0x00000fc1       0x3d /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(copyrite.o)
+ .comment       0x00000ffe       0x3d /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(cinitnon.o)
+ .comment       0x0000103b       0x3d /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(exitnon.o)
+ .comment       0x00001078       0x3d /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(memmove.o)
+ .comment       0x000010b5       0x3d /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(strchr.o)
+ .comment       0x000010f2       0x3d /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(strpbk.o)
+ .comment       0x0000112f       0x3d /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(strspn.o)
+ .comment       0x0000116c       0x1c /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(pre_main.o)
+ .comment       0x00001188       0x3d /mnt/hd1/dl/scctk/lib/scc/linux/gcc/cstartex.o
+ .comment       0x000011c5       0x1c /mnt/hd1/dl/scctk/lib/scc/linux/gcc/cpqlib.a(nslri245.o)
+ .comment       0x000011e1       0x1c /mnt/hd1/dl/scctk/lib/scc/linux/gcc/cpqlib.a(nslsi016.o)
+ .comment       0x000011fd       0x1c /mnt/hd1/dl/scctk/lib/scc/linux/gcc/cpqlib.a(nslsi025.o)
+ .comment       0x00001219       0x3d /mnt/hd1/dl/scctk/lib/scc/linux/gcc/cstartex.o
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges
+ *(.debug_aranges)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info
+ *(.debug_info)
+
+.debug_abbrev
+ *(.debug_abbrev)
+
+.debug_line
+ *(.debug_line)
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str
+ *(.debug_str)
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+OUTPUT(rpow.exe elf32-i386)
+
+.note           0x00000000      0x58c
+ .note          0x00000000       0x14 rpow.o
+ .note          0x00000014       0x14 keygen.o
+ .note          0x00000028       0x14 cryptchan.o
+ .note          0x0000003c       0x14 dbverify.o
+ .note          0x00000050       0x14 hmac.o
+ .note          0x00000064       0x14 gbignum.o
+ .note          0x00000078       0x14 rpowsign.o
+ .note          0x0000008c       0x14 rpowutil.o
+ .note          0x000000a0       0x14 rpio.o
+ .note          0x000000b4       0x14 persist.o
+ .note          0x000000c8       0x14 certvalid.o
+ .note          0x000000dc       0x14 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(atoi.o)
+ .note          0x000000f0       0x14 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(calloc.o)
+ .note          0x00000104       0x14 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(free.o)
+ .note          0x00000118       0x14 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(localtim.o)
+ .note          0x0000012c       0x14 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(malloc.o)
+ .note          0x00000140       0x14 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(memcmp.o)
+ .note          0x00000154       0x14 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(memcpy.o)
+ .note          0x00000168       0x14 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(memset.o)
+ .note          0x0000017c       0x14 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(mktime.o)
+ .note          0x00000190       0x14 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(objmgr.o)
+ .note          0x000001a4       0x14 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(reallo.o)
+ .note          0x000001b8       0x14 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(sprntf.o)
+ .note          0x000001cc       0x14 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(strcat.o)
+ .note          0x000001e0       0x14 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(strcmp.o)
+ .note          0x000001f4       0x14 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(strlen.o)
+ .note          0x00000208       0x14 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(strncpy.o)
+ .note          0x0000021c       0x14 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(strtol.o)
+ .note          0x00000230       0x14 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(time.o)
+ .note          0x00000244       0x14 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(tolowr.o)
+ .note          0x00000258       0x14 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(cjldata.o)
+ .note          0x0000026c       0x14 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(cleanprv.o)
+ .note          0x00000280       0x14 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(ctype.o)
+ .note          0x00000294       0x14 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(doprnt.o)
+ .note          0x000002a8       0x14 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(ftime.o)
+ .note          0x000002bc       0x14 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(gmtime.o)
+ .note          0x000002d0       0x14 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(isdst.o)
+ .note          0x000002e4       0x14 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(sm_io.o)
+ .note          0x000002f8       0x14 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(strcpy.o)
+ .note          0x0000030c       0x14 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/cstartex.o
+ .note          0x00000320       0x14 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/cpqlib.a(cpdel.o)
+ .note          0x00000334       0x14 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/cpqlib.a(cprmcini.o)
+ .note          0x00000348       0x14 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/cpqlib.a(cprmsynm.o)
+ .note          0x0000035c       0x14 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/cpqlib.a(cprmasym.o)
+ .note          0x00000370       0x14 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/scclib.a(scclib03.o)
+ .note          0x00000384       0x14 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/scclib.a(scclib04.o)
+ .note          0x00000398       0x14 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/scclib.a(scclib05.o)
+ .note          0x000003ac       0x14 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/scclib.a(scclib06.o)
+ .note          0x000003c0       0x14 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/scclib.a(scclib08.o)
+ .note          0x000003d4       0x14 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/scclib.a(scclib09.o)
+ .note          0x000003e8       0x14 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/scclib.a(scclib10.o)
+ .note          0x000003fc       0x14 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/scclib.a(mb_iso.omu)
+ .note          0x00000410       0x14 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/scclib.a(sccgrand.o)
+ .note          0x00000424       0x14 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/scclib.a(scclib01.o)
+ .note          0x00000438       0x14 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/scclib.a(scclib02.o)
+ .note          0x0000044c       0x14 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/smlib.a(smlib04.o)
+ .note          0x00000460       0x14 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/smlib.a(smlib10.o)
+ .note          0x00000474       0x14 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/smlib.a(smlib11.o)
+ .note          0x00000488       0x14 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/smlib.a(smlib02.o)
+ .note          0x0000049c       0x14 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/smlib.a(smlib03.o)
+ .note          0x000004b0       0x14 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/smlib.a(smlib01.o)
+ .note          0x000004c4       0x14 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(abort.o)
+ .note          0x000004d8       0x14 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(copyrite.o)
+ .note          0x000004ec       0x14 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(cinitnon.o)
+ .note          0x00000500       0x14 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(exitnon.o)
+ .note          0x00000514       0x14 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(memmove.o)
+ .note          0x00000528       0x14 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(strchr.o)
+ .note          0x0000053c       0x14 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(strpbk.o)
+ .note          0x00000550       0x14 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/clib.a(strspn.o)
+ .note          0x00000564       0x14 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/cstartex.o
+ .note          0x00000578       0x14 /mnt/hd1/dl/scctk/lib/scc/linux/gcc/cstartex.o
